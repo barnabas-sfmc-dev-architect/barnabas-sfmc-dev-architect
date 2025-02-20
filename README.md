@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Barnabas 👋
+🚀 Salesforce Marketing Cloud Developer | Architect
 
-<!--
-**barnabas-sfmc-dev-architect/barnabas-sfmc-dev-architect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned Salesforce Marketing Cloud (SFMC) developer with expertise in architecting, developing, and maintaining end-to-end solutions. My technical proficiency includes:
 
-Here are some ideas to get you started:
+AMPscript & SSJS – Custom scripting for dynamic content, personalization, and advanced email logic.
+SQL & Data Extensions – Querying and managing large datasets within SFMC.
+REST & SOAP APIs – Integrating external systems with SFMC for automation and data exchange.
+Automation Studio & Journey Builder – Designing robust, scalable workflows for audience engagement.
+Einstein AI & Intelligence Reports – Leveraging AI for predictive insights and performance analytics.
+Web Studio & Cloud Pages – Building dynamic landing pages and interactive web experiences.
+I've worked with boutique clients and billion-dollar corporations worldwide, solving complex problems with scalable and efficient code. Check out my repositories for custom SFMC scripts, API integrations, and automation frameworks!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Let’s build something awesome!
+
